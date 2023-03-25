@@ -11,7 +11,7 @@ Django==3.2.18
 djangorestframework==3.14.0
 filelock==3.9.0
 Flask==2.2.3
-fonttools==4.39.0
+fonttools==4.37.4
 idna==3.4
 importlib-metadata==6.0.0
 importlib-resources==5.12.0
