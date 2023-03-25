@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-@dw29-ezf8jnv)%74nxkv-vr#rw6hg1#rf%1&$piq_oj^lhbq_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['winmac-analysis-pzum.onrender.com']
+
 
 
 # Application definition
