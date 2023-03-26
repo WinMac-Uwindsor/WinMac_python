@@ -1,2 +1,2 @@
 pip install -r build.sh
-python manage.py migrate
+python Apiproject/manage.py migrate
