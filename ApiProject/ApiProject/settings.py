@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-@dw29-ezf8jnv)%74nxkv-vr#rw6hg1#rf%1&$piq_oj^lhbq_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['winmac-analysis-pzum.onrender.com', '127.0.0.1', 'localhost']
 
